@@ -18,3 +18,11 @@ Deploy on all platforms with Expo Application Services (EAS).
 
 - Deploy the website: `npx eas-cli deploy` — [Learn more](https://docs.expo.dev/eas/hosting/get-started/)
 - Deploy on iOS and Android using: `npx eas-cli build` — [Learn more](https://expo.dev/eas)
+
+
+
+--------------------------------------
+Fill in your actual values inside .env:
+
+# Clerk public key (safe to expose)
+EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_your_public_key_here
