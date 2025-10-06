@@ -26,3 +26,10 @@ Fill in your actual values inside .env:
 
 # Clerk public key (safe to expose)
 EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_your_public_key_here
+
+--------------------------------------
+# Screenshots
+<p align="left">
+<img src="https://raw.githubusercontent.com/cyrillegs/weather-expo-app/refs/heads/main/src/assets/images/select_location.jpg" alt="Select Location" width="300" />
+<img src="https://raw.githubusercontent.com/cyrillegs/weather-expo-app/refs/heads/main/src/assets/images/weather.jpg" alt="Weather" width="300" />
+</p>
